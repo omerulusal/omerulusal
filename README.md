@@ -37,5 +37,4 @@
       </td>
     </tr>
   </table>
-  <p><img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=omerulusal&" alt="omerulusal" /></p>
 </div>
